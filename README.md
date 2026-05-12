@@ -9,6 +9,7 @@
 <a style='font-size: 1.5rem;' href='https://gpt-assist-teal.vercel.app/role'>Visit Demo Site</a>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FeaasyIce%2Fgpt_assistant&project-name=gpt-assistant&demo-url=https%3A%2F%2Fai-assist-teal.vercel.app)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=miniizinc/gpt_assistant&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 </p>
 <p align='center'>
@@ -45,6 +46,7 @@
 ## Delpoy
 
 -   Vercel: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FeaasyIce%2Fgpt_assistant&project-name=gpt-assistant&demo-url=https%3A%2F%2Fai-assist-teal.vercel.app)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=miniizinc/gpt_assistant&type=static&buildCmd=npm+run+build&outputDir=dist)
 -   Deploy locally
     - run the following command in your local environment:
         ```
